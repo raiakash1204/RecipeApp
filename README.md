@@ -75,8 +75,6 @@ A simple and user-friendly recipe application built using [TheMealDB API](https:
 └── README.md
 ```
 
-> _Adjust the structure if your repo differs._
-
 ## API Reference
 
 This app uses [TheMealDB API](https://www.themealdb.com/api.php) for fetching meal data. For more information, check their documentation.
